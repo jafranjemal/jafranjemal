@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jafran Jemal</h1>
 <h3 align="center">I am dedicated to helping software engineers crack the coding interview at top tech companies like Google, Microsoft, and more.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.marketing91.com/wp-content/uploads/2020/04/Work-from-Home-Tips.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafranjemal&label=Profile%20views&color=0e75b6&style=flat" alt="jafranjemal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jafranjemal" alt="jafranjemal" /></a> </p>
