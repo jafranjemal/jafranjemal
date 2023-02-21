@@ -12,13 +12,14 @@
 
 - 📝 I regularly write articles on [https://jafranjemal1995.wixsite.com/syntaxstruggle](https://jafranjemal1995.wixsite.com/syntaxstruggle)
 
-- 💬 Ask me about **React, MERN Stack**
+- 💬 Ask me about **React, MERN Stack and Mobile Development**
 
 - 📫 How to reach me **jafranjemal1995@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
